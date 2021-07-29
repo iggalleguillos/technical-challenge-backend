@@ -14,10 +14,10 @@
       "launchBrowser": true,
       "launchUrl": "swagger",
       "environmentVariables": {
-        "JWT_SECRET_KEY": "dGVjaG5pY2FsY2hhbGxlbmdl",
-        "DYNAMODB_ACCESS_KEY": "AKIAY5W3SKGFHT4AGCP3",
-        "DYNAMODB_SECRET_KEY": "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",
-        "IDENTITY_URL": "technical-challenge.com",
+        "JWT_SECRET_KEY": "XXXXXXX",
+        "DYNAMODB_ACCESS_KEY": "XXXXXXXX",
+        "DYNAMODB_SECRET_KEY": "XXXXXXX",
+        "IDENTITY_URL": "XXXXXXXX",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
